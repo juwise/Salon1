@@ -23,7 +23,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '2!j34xpyu-0jq0$*jr^#c9(c^*(yrljd%i-^x+z-2!k#&g=#9l'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['eltarisalon.herokuapp.com', '127.0.0.1']
 
